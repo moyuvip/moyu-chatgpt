@@ -8,7 +8,9 @@ ChatGPT Plus注册教程：https://mp.weixin.qq.com/s/zpRy78m8F8ioFxVp4zjeGw
 Midjourney注册教程： https://mp.weixin.qq.com/s/pQmlL8sgmCDR0mHL8PvXmA  
 Newbing注册教程：https://mp.weixin.qq.com/s/V9KxMlEDMekgsTLkAv0szg  
 
-## 
+## 飞书文档
+飞书文档【『ChatGPT学习宝典』每日更新中】
+文档地址：https://zamztpclars.feishu.cn/docx/Sg1bd2Xx8onU5KxJyImc1XQWnBe
 
 ## 交流学习
 <table border="1" style="table-layout: fixed;">
