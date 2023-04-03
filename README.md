@@ -2,6 +2,12 @@
 收集并分享ChatGPT资料，持续更新......  
 ChatGPT的基础模型和生成模型对 AI 研究人员、技术人员和整个世界意味着什么。让我们拭目以待...  
 
+## 飞书文档
+飞书文档【『ChatGPT学习宝典』每日更新中】
+内容：ChatGPT 镜像站点、ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习
+文档地址：https://zamztpclars.feishu.cn/docx/Sg1bd2Xx8onU5KxJyImc1XQWnBe  
+
+
 ## chatgpt体验
 ChatGPT 镜像站点
 目前国内镜像很多，这里汇总了一部分，没有网络环境的可以玩玩。失效的话就换一个，我会定期更新。  
@@ -15,10 +21,6 @@ ChatGPT Plus注册教程：https://mp.weixin.qq.com/s/zpRy78m8F8ioFxVp4zjeGw
 Midjourney注册教程： https://mp.weixin.qq.com/s/pQmlL8sgmCDR0mHL8PvXmA  
 Newbing注册教程：https://mp.weixin.qq.com/s/V9KxMlEDMekgsTLkAv0szg  
 
-## 飞书文档
-飞书文档【『ChatGPT学习宝典』每日更新中】
-内容：ChatGPT 镜像站点、ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习
-文档地址：https://zamztpclars.feishu.cn/docx/Sg1bd2Xx8onU5KxJyImc1XQWnBe  
 
 ## GPT-4
 【GPT-4】[GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)  
