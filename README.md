@@ -9,11 +9,296 @@ ChatGPT的基础模型和生成模型对 AI 研究人员、技术人员和整个
 
 
 ## chatgpt体验
+
+<br/>
+<a href="https://universalbus.cn/r?s=9HWnYwtK9b" target="_blank"><img src="https://st.ai55.cc/adimg2" alt="Ad" style="height: 80px !important;width: auto !important;" ></a>
+
+- [👆https://universalbus.cn/r?s=9HWnYwtK9b](https://cc.ai55.cc/ad2) [ad.]
+
+---
+
+- ⭐:使用稳定，不受限，推荐
+
+- 🔑:需要进行**登录**或需要**密码**
+  <br/>
+- ⛔:有限地使用**次数**或**字数**，需提供key或进行充值进行服务升级
+  <br/>
+- 🛫: 可能需要国际网络进行访问
+
 ChatGPT 镜像站点
 目前国内镜像很多，这里汇总了一部分，没有网络环境的可以玩玩。失效的话就换一个，我会定期更新。  
-1. [⭐⭐⭐] https://geekch.art/  
-2. [⭐⭐] https://ai.bo-e.com/  
-3. [⭐⭐] https://chat4.xeasy.me  
+
+1. [🔑⭐🛫] https://poe.com/
+
+2. [⭐⭐] https://chat.binjie.site:7777/
+
+3. [⭐⭐] http://ai.usesless.com/
+
+4. [⭐⭐] https://wen.geekr.dev
+
+5. [⭐⭐] https://free.anzz.top/
+
+6. [⭐⭐] https://www.aiai.zone/
+
+7. [⭐⭐] https://chat.aidutu.cn/
+
+8. [⭐⭐] https://chat10.xeasy.me
+
+9. [⭐⭐] https://chat.wobcw.com/
+
+10. [⭐⭐] https://aka.mydog.buzz
+
+11. [⭐⭐] https://greengpt.app/
+
+12. [⭐⭐] https://ai.ov.cm/
+
+13. [⭐⭐] https://chat.extkj.cn/
+
+14. [⭐⭐] https://chatgpt35.theinspiredgroup.com
+
+15. [⭐⭐🛫] https://freegpt.one/
+
+16. [⭐⭐🛫] https://ai.ls/
+
+17. [⭐⭐🛫] https://desk.im/
+
+18.  https://cool-js.com/ai/chat/index.html
+
+19.  https://chat.tig.im/
+
+20. [🛫] https://ai.ci
+
+21. [🛫] https://beta.character.ai/
+
+22. [🛫] https://xc.com/
+
+23.  http://chat.forwardminded.xyz/#/
+
+24. [🛫] https://www.teach-anything.com/
+
+25. [🛫] https://openprompt.co/ChatGPT
+
+26.  http://chat.livepo.top/
+
+27. [🛫] http://ai.jjzn.top/
+
+28. [🛫] https://94gpt.com/
+
+29.  http://175.178.88.119/
+
+30. [🛫] https://gpt.getshare.net/
+
+31. [可尝试GPT4] http://www.tdchat.vip/
+
+32. [🛫] https://www.ftcl.store/
+
+33.  https://chat1.wuguokai.top/s/chatgpt
+
+34.  https://chat.wuguokai.cn/s/chatgpt
+
+35. [⛔] https://litechat.22733.site/
+
+36. [⛔🛫] https://chat.51buygpt.com/
+
+37. [⛔] https://chat.extnav.com/
+
+38. [⛔] https://chat.sunls.me/
+
+39. [🔑🛫] https://www.typingmind.com/
+
+40. [⛔🛫] https://chat.topsearcher.top/
+
+41. [⛔🛫] https://chatcat.pages.dev/
+
+42. [⛔🛫] https://ai117.com/
+
+43. [⛔🛫] http://newb.site/chatgpt
+
+44. [⛔] https://aigcfun.com/
+
+45. [🔑] https://chat.alpaca-bi.com/
+
+46. [⛔🛫] https://chatforai.com/
+
+47. [🔑🛫] https://gpt.clashus.com/
+
+48. [🔑] https://chat.opengpt88.com/
+
+49. [🔑] https://builtbyjesse.com/lab
+
+50. [⛔🛫] https://chat35.com/
+
+51. [⛔] https://chat.forchange.cn/
+
+52. [🔑] https://chat.eaten.fun/
+
+53. [⛔] https://www.chat2ai.cn/
+
+54. [🔑🛫] https://gpt.intercat.cn/
+
+55. [🔑🛫] https://www.ohmygpt.com/
+
+56. [⛔] https://chat.zecoba.cn/
+
+57. [🔑] https://chat.wxredcover.cn/
+
+58. [🔑] https://chat.paoying.net/
+
+59. [⛔🛫] http://gitopenchina.gitee.io/gpt
+
+60. [⛔🛫] https://trychatgp.com/
+
+61. [⛔🛫] http://gitopenchina.gitee.io/freechatgpt
+
+62. [🔑] https://www.bz1y.cn/
+
+63. [⛔🛫] https://freechatgpt.chat/
+
+64. [⛔🛫] https://ai.yiios.com/
+
+65. [🔑] https://codenews.cc/chatgpt
+
+66. [⛔🛫] https://tryai.top/freechat
+
+67. [⛔🛫] https://openai.onenov.cn/
+
+68. [⛔🛫] https://ai.okmiku.com/chat/
+
+69. [⛔🛫] https://chatmindai.com/
+
+
+
+[//]: # (下面是失效的站点)
+
+<details>
+  <summary>失效站点</summary>
+
+
+1.  https://ai.bo-e.com/
+<br/>
+
+2.  http://openmao.com/
+<br/>
+
+3.  https://chater.lanyun1103.top
+<br/>
+
+4.  https://chat.yougan.cc/
+<br/>
+
+5.  http://chatai.fyi/
+<br/>
+
+6.  http://chat.apigpt.cn/
+<br/>
+
+7.  https://vip.jjzn.top/
+<br/>
+
+8.  https://chatmate.network/
+<br/>
+
+9.  https://freegpt.one/
+<br/>
+
+10.  https://freechatgpt.lol/
+<br/>
+
+11.  https://fastgpt.app/
+<br/>
+
+12.  https://chat.jingran.vip/
+<br/>
+
+13.  http://itecheasy.com.cn/
+<br/>
+
+14.  https://chatgpt.ddiu.io/
+<br/>
+
+15.  https://chat.aigc-model.com/
+<br/>
+
+16.  https://chatgpt.poshist.cn/
+<br/>
+
+17.  https://www.chatsverse.xyz/
+<br/>
+
+18.  https://ai.v2less.com/
+<br/>
+
+19.  https://chatgpt.h7ml.cn/
+<br/>
+
+20.  https://chat.tgbot.co/
+<br/>
+
+21.  https://chat.ninvfeng.xyz/
+<br/>
+
+22.  https://talk.xiu.ee/
+<br/>
+
+23.  https://chat.sheepig.top/
+<br/>
+
+24.  https://chatgpt.ddiu.me/
+<br/>
+
+25.  https://chatgpt.lcc8.com/
+<br/>
+
+26.  https://chat.uue.me/
+<br/>
+
+27.  http://gpt.mxnf.store/
+<br/>
+
+28.  https://chat.moyunav.com/
+<br/>
+
+29.  https://www.askopenai.cn/
+<br/>
+
+30.  https://gpt.h7ml.cn/
+<br/>
+
+31.  https://askgptai.com/
+<br/>
+
+32.  https://www.aitoolgpt.com/
+<br/>
+
+33.  https://chatapi.qload.cn/
+<br/>
+
+34.  https://chat-gpt.nikong.cn/
+<br/>
+
+35.  https://chatgpt-flutter.h7ml.cn/
+<br/>
+
+36.  https://www.cveoy.com/
+<br/>
+
+37.  https://chat.h7ml.cn/
+<br/>
+
+38.  https://freegpt.cc
+<br/>
+
+39.  https://chatbot.theb.ai/
+<br/>
+
+40.  http://43.156.110.219:3002/ 
+<br/>
+
+41.  https://www.askme.mom/
+<br/>
+
+
+</details>
 
 ## chatgpt入门
 ChatGPT注册教程：https://mp.weixin.qq.com/s/kzbmg0zNXyXSkKVupBxc2Q  
