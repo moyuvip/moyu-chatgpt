@@ -489,7 +489,7 @@ Newbing注册教程：https://mp.weixin.qq.com/s/V9KxMlEDMekgsTLkAv0szg
   </tr>
   <tr>
     <td><img src="https://github.com/moyuvip/moyu-chatgpt/blob/main/images/qqqun.jpg" style="width:200px;hight:200px"/></td>
-    <td><img src="https://github.com/moyuvip/moyu-chatgpt/blob/main/images/gerenvx.jpg" style="width:200px;hight:200px" /></td>
+    <td><img src="https://github.com/moyuvip/moyu-chatgpt/blob/main/images/moyu.jpg" style="width:200px;hight:200px" /></td>
     <td><img src="https://github.com/moyuvip/moyu-chatgpt/blob/main/images/zanshangma.jpg" style="width:200px;hight:200px" /></td>
   </tr>
 </table>
