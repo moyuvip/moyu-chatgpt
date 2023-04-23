@@ -2,6 +2,9 @@
 收集并分享ChatGPT资料，持续更新......  
 ChatGPT的基础模型和生成模型对 AI 研究人员、技术人员和整个世界意味着什么。让我们拭目以待...  
 
+## 1300+AI工具合集
+墨鱼AI：https://moyutools.com  
+
 ## 飞书文档
 飞书文档【『ChatGPT学习宝典』每日更新中】
 内容：ChatGPT 镜像站点、ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习
